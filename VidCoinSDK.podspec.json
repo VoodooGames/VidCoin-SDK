@@ -1,0 +1,23 @@
+{
+  "name": "VidCoin",
+  "version": "1.3.3",
+  "summary": "VidCoin SDK for iOS.",
+  "description": "A github repository for the VidCoin iOS SDK. Vidcoin iOS SDK enables you to broadcast videos in your games in order to give users access to restricted content or to obtain virtual currency for free.",
+  "homepage": "https://www.vidcoin.com/",
+  "authors": "Vidcoin",
+  "license": "Apache License, Version 2.0",
+  "source": {
+    "git": "https://github.com/VoodooGames/VidCoin-SDK.git",
+    "tag": "1.3.3"
+  },
+  "vendored_frameworks": "VidCoin.framework",
+  "resources": "VidCoin.bundle",
+  "frameworks": [
+    "MediaPlayer",
+    "AdSupport",
+    "CoreTelephony",
+    "AVFoundation",
+    "SystemConfiguration",
+    "CoreMedia"
+  ]
+}
