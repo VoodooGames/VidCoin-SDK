@@ -8,8 +8,8 @@
 /*****************************************************************/
 // VidCoin iOS SDK
 //
-// SDK Version Number : v1.3.3
-// Release Date : February 12th 2016
+// SDK Version Number : v1.3.4
+// Release Date : May 30th 2016
 // Github repository : https://github.com/VidCoin/VidCoin-iOS-SDK
 /*****************************************************************/
 
